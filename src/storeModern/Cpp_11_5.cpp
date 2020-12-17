@@ -1,5 +1,5 @@
 /*
-3. foreach
+4. foreach
 
 #1: C++03
 we traverse a vector

@@ -1,5 +1,5 @@
 /*
-3. static assert
+7. static assert
 
 #1:
 we are all familiar with assertion at any run-time of the program we can assert a 

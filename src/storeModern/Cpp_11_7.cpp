@@ -1,5 +1,5 @@
 /*
-3. enum class
+6. enum class
 
 #1:C++03
 in C++03 enumerators are basically integers

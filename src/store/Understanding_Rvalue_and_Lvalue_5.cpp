@@ -21,7 +21,7 @@ I can call the default constructor of Dog to create a dog and then invoke the
 function bark() on the dog. the function bark() could change the state of the dog so 
 this rvalue dog is modifiable.
 
-a summary if you cannot remember everything that I've talked about our value and L 
+a summary if you cannot remember everything that I've talked about rvalue and L 
 value please do remember the summary
 
 Summary:

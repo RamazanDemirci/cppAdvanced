@@ -6,7 +6,7 @@ what confuses most of the people in the transforming between the L value?
 lvalue can be used to create an rvalue
 
 #1.1
-I have a lvalue i and I can create our value with i+2
+I have a lvalue i and I can create rvalue with i+2
 what is i?  is it rvalue or lvalue?
 - i is obviously lvalue because it has address and the address is identifiable.
 

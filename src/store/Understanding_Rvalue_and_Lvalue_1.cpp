@@ -37,12 +37,12 @@ it is fair to say that most of the variables in C++ code are lvalues
 #2:Rvalue
 
 #2.1:
-why are they our values?
+why are they rvalues?
 - because if I try to get their address like this the compiler will error out
 - I also cannot assign a different value to them
 
 #2.2:
-Dog is our value of user defined type class.
+Dog is rvalue of user defined type class.
 
 
 

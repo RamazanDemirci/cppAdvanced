@@ -13,7 +13,7 @@ argument and pass the argument over to function foo()
 - as we've talked about in previous session when the relay() function is invoked 
 with the lvalue then the boVectors copy constructor will be invoked.
 
-- when the relay() function is invoked with our value then the move constructor of 
+- when the relay() function is invoked with rvalue then the move constructor of 
 boVector will be invoked.
     -- that's the whole purpose of moving move semantics
 

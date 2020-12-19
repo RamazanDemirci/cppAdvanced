@@ -1,7 +1,7 @@
 /*
 Understanding Rvalue and Lvalue
 
-instead of continue to talk about what the our values and our values are let's talk 
+instead of continue to talk about what the rvalues and rvalues are let's talk 
 about what they are not.
 
 there are some misconception that needs to be cleared up.

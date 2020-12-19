@@ -33,7 +33,7 @@ how can I make the function square(40) work?
 the workaround is I can change the parameter of the square function into a Const 
 integer reference 
     - as we've seen in previous example a Const individual reference can be 
-    initialized with our value(#1.3)
+    initialized with rvalue(#1.3)
 -- so the square(40) will work and the square(i) still will work.
 
 

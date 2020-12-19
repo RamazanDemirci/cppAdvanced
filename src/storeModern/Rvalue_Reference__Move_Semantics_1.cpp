@@ -24,12 +24,12 @@ how can this thing be used?
 
 #2:
 we have two printInt functions
-- the first one is taking our value reference as parameter 
-- the second one is taking our value reference as a parameter
+- the first one is taking rvalue reference as parameter 
+- the second one is taking rvalue reference as a parameter
 
 so with the rvalue reference we can overload a function based on the parameter type
 whether the parameter is a lvalue or rvalue
-- so this is the basic concept of our value reference
+- so this is the basic concept of rvalue reference
 
 #3:
 if we have a function void printInt that takes a I as an integer then this code 
